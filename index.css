@@ -1,0 +1,331 @@
+body{
+
+}
+.premier{
+    background-image: url("../img/bon.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding-top: 20px;
+    
+}
+.global{
+    background-color: rgba(76, 0, 255, 0.813);
+    color: aliceblue;
+    padding-top: 5%;
+    padding-bottom: 10%;
+    padding-left: 60px;
+    margin-left: 55%;
+    width: 400px;
+    height: 60%;
+
+}
+.first{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.lgo{
+    cursor: pointer;
+    display: flex;
+gap: 42%; 
+   /* margin-bottom: 20px; */
+
+}
+
+
+.adm{
+    margin-top: 80px ;
+    color: blue;
+    align-content: center;
+
+}
+.min{
+    padding-left:  30px;
+}
+.moi input{
+    width: 90%;
+    height: 30px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.vla div{
+    color: blue;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+.deuxieme{
+    display: flex;
+    background-color:rgb(0, 102, 255);
+    margin-top: 80px;
+    margin-bottom: 80px;
+    height: 300px;
+
+    
+}
+.philan{
+    color: aliceblue;
+    margin-left: 20px;
+}
+.force{
+    margin-top: 30px;
+    border: solid;
+    border-color: aliceblue;
+    color: aliceblue;
+}
+.lpg{
+    background-color: rgba(208, 241, 241, 0.806);
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 0px;
+
+}
+.new{
+    color: blue;
+    padding-top: 40px;
+}
+.mainautre{
+    background-color: rgb(9, 9, 56);
+    color: aliceblue;
+    display: flex;
+    height: 301px;
+}
+.cote{
+    padding-left: 20px;
+
+}
+.lstrois{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+
+}
+.lstrois div{
+padding-bottom: 10px;
+}
+.bati{
+    padding-right: 20px;
+    background-color: white;
+    width:300px;
+}
+.fem{
+    padding-right: 20px;
+    margin-left: 20px;
+    background-color: white;
+    width:300px;
+}
+.travail{
+    padding-right: 20px;
+    margin-left: 20px;
+    background-color: white;
+    width:300px;
+}
+.bati div{
+    padding-left: 20px;
+}
+.fem div{
+    padding-left: 20px;
+}
+.travail{
+    padding-left: 20px;
+}
+.tln{
+    background-color: rgb(7, 7, 79);
+    color: white;
+    width:600px;
+    
+}
+.tln div{
+    padding-left: 60%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.chiffres{
+    background-color: rgb(0, 157, 255);
+    color: white;
+    padding-bottom: 60px;
+
+
+}
+.chiffres h1{
+    padding-top:40px ;
+    padding-left: 30px;
+
+    padding-bottom: 40px;
+}
+.nbre{
+    
+    color: black;
+    display: flex;
+    padding-bottom: 30px;
+
+}
+.le_frst{
+    background-color: white;
+    margin-left: 90px;
+    width: 300px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
+.le2nd{
+    background-color: white;
+    margin-left: 30px;
+    width: 300px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+.le3eme{
+    background-color: white;
+    margin-left: 30px;
+    width: 300px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
+.svn{
+    background-color: rgb(9, 9, 93);
+    color: white;
+    height: 400px;
+    padding-top: 60px;
+    padding-left: 20px;
+}
+
+.svn span{
+ font-size: 50px;
+}
+.carreaux{
+display: flex;
+justify-content: center;
+gap: 3%;
+padding-top: 200px;
+}
+.carreaux div{
+    border:solid;
+    border-color: white;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+.abn{
+    padding-left: 500px;
+    padding-top: 20px;
+    
+}
+.last{
+    background-color: black;
+    color:white;
+    padding-top: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+.donnez{
+    display: flex;
+    gap: 2%;
+}
+.grd_blc_1{
+    width: 400px;
+}
+
+.ETD div{
+border: solid;
+margin: 10px;
+padding: 10px;
+}
+.grd_blc_2{
+    display: flex;
+    gap: 2%;
+}
+.ls_grd_bloc{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 60px;
+}
+.avantD{
+    border-top: solid;
+    border-bottom: solid;
+    border-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 900px;
+    
+}
+.derniere{
+    width: 300px;
+    border-top: solid;
+    border-bottom: solid;
+    border-color: white;
+    color: orangered;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    gap: 2%;
+}
+
+.fin{
+    display: flex;
+    gap: 3%;
+    padding-left: 100px;
+    padding-bottom: 20px;
+}
+.lst_lst{
+    color: blue;
+    padding-left:100px ;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+.gloria{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    padding: 20px;
+}
+
+.gloria div{
+    display: flex;
+    gap: 10px;
+}
+.montreal div{
+    padding:15 px;
+    margin: 15px;
+}
+.avantD img{
+    cursor: pointer;
+}
+.derniere img{
+    cursor: pointer;
+}
+.gloria img{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
